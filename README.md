@@ -1,1 +1,7 @@
 [Linux Setup on Azure](Linux%20Setup%20on%20Azure%207100b190bfac4cc2a089ec436d50a95b)
+- [Java Setup on Linux](Linux%20Setup%20on%20Azure%207100b190bfac4cc2a089ec436d50a95b/Java%20Setup%20on%20Linux%2036774edcda1343ae9bb9cfde10cdba6c)
+- [Docker Setup on Linux](Linux%20Setup%20on%20Azure%207100b190bfac4cc2a089ec436d50a95b/Docker%20Setup%20on%20Linux%20b60c631d0f0b40288a4bb64b6aac82c8)
+- [Kafka Setup on Linux](Linux%20Setup%20on%20Azure%207100b190bfac4cc2a089ec436d50a95b/Kafka%20Setup%20on%20Linux%2013001e06272949d8ab85130d54c98e62)
+- [VS Code Setup on Linux](Linux%20Setup%20on%20Azure%207100b190bfac4cc2a089ec436d50a95b/VS%20Code%20Setup%20on%20Linux%20e92fb84f2c914205bb007c42a40d0d98)
+- [Rust Setup on Linux](Linux%20Setup%20on%20Azure%207100b190bfac4cc2a089ec436d50a95b/Rust%20Setup%20on%20Linux%2060e78ad557de49dcbb2e1c36cf243ef8)
+- [Go Setup on Linux](Linux%20Setup%20on%20Azure%207100b190bfac4cc2a089ec436d50a95b/Go%20Setup%20on%20Linux%2048d8dc5ba5d34a538c2baee6dd935aef)
