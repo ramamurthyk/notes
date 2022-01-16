@@ -1,2 +1,1 @@
-## Welcome to My Tech Notes
-
+[Linux Setup on Azure](Linux%20Setup%20on%20Azure%207100b190bfac4cc2a089ec436d50a95b)
