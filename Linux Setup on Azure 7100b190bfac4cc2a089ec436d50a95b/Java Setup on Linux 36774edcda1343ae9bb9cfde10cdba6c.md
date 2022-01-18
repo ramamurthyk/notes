@@ -3,7 +3,7 @@
 Download and install JDK 17 (latest version as of Jan 2022)
 
 ```bash
-wget [https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.deb](https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.deb)
+wget https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.deb
 sudo apt install ./jdk-17_linux-x64_bin.deb
 ```
 

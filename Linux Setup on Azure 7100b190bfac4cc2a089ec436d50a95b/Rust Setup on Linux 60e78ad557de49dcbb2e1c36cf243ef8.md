@@ -3,7 +3,7 @@
 Install Rust from [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
 
 ```bash
-curl --proto '=https' --tlsv1.2 -sSf [https://sh.rustup.rs](https://sh.rustup.rs/) | sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs/ | sh
 ```
 
 Create an app and verify.

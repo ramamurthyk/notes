@@ -3,7 +3,7 @@
 Install Go from [https://go.dev/doc/install](https://go.dev/doc/install)
 
 ```bash
-WGET [https://go.dev/dl/go1.17.6.linux-amd64.tar.gz](https://go.dev/dl/go1.17.6.linux-amd64.tar.gz)
+WGET https://go.dev/dl/go1.17.6.linux-amd64.tar.gz
 sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.17.6.linux-amd64.tar.gz
 ```
 
@@ -67,9 +67,6 @@ For example: launch.json is created as shown below:
 
 ```json
 {
-	// Use IntelliSense to learn about possible attributes.
-	// Hover to view descriptions of existing attributes.
-	// For more information, visit: [https://go.microsoft.com/fwlink/?linkid=830387](https://go.microsoft.com/fwlink/?linkid=830387)
 	"version": "0.2.0",
 	"configurations": [
 		{
